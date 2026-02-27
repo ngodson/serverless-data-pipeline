@@ -43,5 +43,9 @@ json{
   "Resource": "arn:aws:s3:::ecommerce-pipeline-godson/processed/*"
 }
 
+
+https://github.com/user-attachments/assets/a3e97c71-5a55-4b40-9adc-6bb642ca12d8
+
+
 Author<br>
 Godson — <i>AWS Certified Developer & Solutions Architect</i>
