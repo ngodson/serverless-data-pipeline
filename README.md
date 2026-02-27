@@ -2,7 +2,7 @@ A fully serverless, event-driven ETL pipeline that ingests real-time e-commerce 
 This project was built console-first for deep architectural understanding, demonstrating real-world Solutions Architect decision-making around service selection, IAM least-privilege design, cost optimisation, and data lake architecture.
 
 
-Sample Analytics Queries
+<b>Sample Analytics Queries</b><br><br>
 Revenue by Category
 sqlSELECT
     category,
@@ -43,5 +43,5 @@ json{
   "Resource": "arn:aws:s3:::ecommerce-pipeline-godson/processed/*"
 }
 
-Author
-Godson — AWS Certified Developer & Solutions Architect
+Author<br>
+Godson — <i>AWS Certified Developer & Solutions Architect</i>
